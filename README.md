@@ -4,4 +4,5 @@
 
 ## Universal I/O Model
 
-* File-IO
+* File-I/O
+* Seek-I/O
