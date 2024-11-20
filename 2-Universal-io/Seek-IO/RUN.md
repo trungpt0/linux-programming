@@ -1,6 +1,8 @@
+# Seek I/O
+
 # Run
 
-## Compile gcc:
+Compile gcc:
 
 ```bash
 $ touch file_test
@@ -9,7 +11,7 @@ s100000: seek succeeded
 wabc: wrote 3 bytes
 ```
 
-## Run with <./seek-io> <file> <s(offset)> <w(write)>
+Run with <./seek-io> <file> <s(offset)> <w(write)>
 
 ```bash
 $ ./seek-io file_test s100000 wabc
@@ -17,7 +19,7 @@ s100000: seek succeeded
 wabc: wrote 3 bytes
 ```
 
-## Check offset and text:
+Check offset and text:
 
 ```bash
 $ ls -l file_test
@@ -26,7 +28,7 @@ $ cat file_test
 abc
 ```
 
-## Test again
+Test again:
 
 ```bash
 ./seek-io file_test s10000 R5

@@ -10,7 +10,7 @@ GCC Compile:
 $ make
 ```
 
-Run:
+Excute:
 
 ```bash
 $ ./scatter-input test-file.txt
