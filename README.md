@@ -1,8 +1,9 @@
 # Linux Programming
 
-## Parsing-Numeric-arguments
+## 1 Parsing-Numeric-arguments
 
-## Universal I/O Model
+## 2 Universal I/O Model
 
-* File-I/O
-* Seek-I/O
+* File I/O
+* Seek I/O
+* Scatter Input
