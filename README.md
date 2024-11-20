@@ -8,3 +8,7 @@
 * Seek I/O
 * Scatter Input
 * Large File
+
+## Process
+
+* Process memory segments
