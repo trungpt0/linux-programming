@@ -14,3 +14,7 @@
 * Process memory segments
 * Printing the process environment
 * Nonlocal goto
+
+## Memory Allocation
+
+* Program break when memory is freed
