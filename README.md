@@ -18,3 +18,7 @@
 ## Memory Allocation
 
 * Program break when memory is freed
+
+## Users and Group
+
+* Contert between ID and Name of User-Group
