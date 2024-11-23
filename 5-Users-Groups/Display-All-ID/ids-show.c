@@ -118,7 +118,7 @@ int main()
     p = get_name_from_idgrp(fsgid);
     printf("saved=%s (%ld); ", (p == NULL) ? "???" : p, (long)fsgid);
     printf("\n");
-
+    
     numGroups = getgroups(SG_SIZE, suppGroups);
     if (numGroups == -1)
         err_exit("getgroups");
