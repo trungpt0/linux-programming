@@ -37,3 +37,6 @@
 * fpathconf()
 
 ## 8 System and Process Information
+
+* Pid max process
+* uname()
