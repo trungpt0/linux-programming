@@ -27,4 +27,5 @@
 
 ## 6 Time
 
-* Carlendar Time
+* Converting calendar times
+* Current time (strftime)
