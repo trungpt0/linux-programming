@@ -30,3 +30,8 @@
 * Converting calendar times
 * Current time (strftime)
 * Process time
+
+## System limits
+
+* sysconf()
+* fpathconf()
