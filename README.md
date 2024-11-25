@@ -31,7 +31,9 @@
 * Current time (strftime)
 * Process time
 
-## System limits
+## 7 System limits
 
 * sysconf()
 * fpathconf()
+
+## 8 System and Process Information
