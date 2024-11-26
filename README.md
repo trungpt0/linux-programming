@@ -40,3 +40,7 @@
 
 * Pid max process
 * uname()
+
+## 9 File I/O Buffering
+
+* Direct IO
