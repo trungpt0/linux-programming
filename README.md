@@ -33,13 +33,13 @@
 
 ## 7 System limits
 
-* sysconf()
-* fpathconf()
+* sysconf
+* fpathconf
 
 ## 8 System and Process Information
 
 * Pid max process
-* uname()
+* uname
 
 ## 9 File I/O Buffering
 
@@ -47,4 +47,5 @@
 
 ## 10 File System
 
-* mount()
+* mount
+* owner
