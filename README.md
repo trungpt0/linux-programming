@@ -49,3 +49,4 @@
 
 * mount
 * owner
+* umask
