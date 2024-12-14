@@ -50,3 +50,7 @@
 * mount
 * owner
 * umask
+
+## 11 Extended Attributes
+
+* Display file extended attributes
