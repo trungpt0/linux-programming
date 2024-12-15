@@ -60,3 +60,5 @@
 * Removing a link with unlink()
 * Scanning a directory
 * Using nftw() to walk a directory tree
+* Read and resolve a symbolic link
+* Using dirname() and basename()
