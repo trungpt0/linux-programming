@@ -54,3 +54,7 @@
 ## 11 Extended Attributes
 
 * Display file extended attributes
+
+## 12 Directories and Links
+
+*  Removing a link with unlink()
