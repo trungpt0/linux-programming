@@ -57,4 +57,5 @@
 
 ## 12 Directories and Links
 
-*  Removing a link with unlink()
+* Removing a link with unlink()
+* Scanning a directory
