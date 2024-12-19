@@ -70,3 +70,6 @@
 ## 14 Signal
 
 * Installing a handler for SIGINT
+* Establishing the same handler for two different signals
+* Using the kill() system call
+* Sending multiple signals
